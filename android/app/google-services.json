@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "780068716468",
+    "project_id": "aptech-firebase",
+    "storage_bucket": "aptech-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780068716468:android:e70c970291184d8209bce1",
+        "android_client_info": {
+          "package_name": "com.aptechflutter.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgo_5ywRr8DjIcGrNHNj1KMrVInZf-3oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
