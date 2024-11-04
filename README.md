@@ -1,5 +1,5 @@
 ## Content
-- Basic Syntax
 - Location
 - Google Maps
+- Firebase Login
 - Firebase CRUD
